@@ -3,7 +3,7 @@
 Nama : [Aisa Selvira Quraata A'yunni]
 NIU : [22/498561/TK/54690]
 Sesi : [1]
-Secret String : [SECRET_STRING]
+Secret String : 4d3ab26c506cc39e7d2dd248de5372fd
 
 ## Checklist Responsi
 
